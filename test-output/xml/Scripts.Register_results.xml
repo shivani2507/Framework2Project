@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="6"
+           time="0.005">
+  <properties />
+  
+            <testcase name="before" time="0.0" classname="Scripts.Register">
+          <skipped />
+    </testcase>
+            <testcase name="quitBrowser" time="0.0" classname="Scripts.Register">
+          <skipped />
+    </testcase>
+            <testcase name="quitBrowser" time="0.0" classname="Scripts.Register">
+          <skipped />
+    </testcase>
+            <testcase name="before" time="0.0" classname="Scripts.Register">
+          <skipped />
+    </testcase>
+            <testcase name="InvalidRegister" time="0.0" classname="Scripts.Register">
+          <skipped />
+    </testcase>
+            <testcase name="Register" time="0.0" classname="Scripts.Register">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

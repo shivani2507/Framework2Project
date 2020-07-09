@@ -1,0 +1,4 @@
+ChromeDriver = G:\\ApiAutomationRestAssured (4)\\ApiAutomationRestAssured\\chromedriver.exe
+URL = http://automationpractice.com/index.php
+Email = qwerty1234@abc.com
+Password = shiv@1234

@@ -1,0 +1,154 @@
+2020-06-03 13:59:27,662 [main] INFO BASICS.LOG4J - information message
+2020-06-03 16:31:51,381 [main] INFO Scripts.LoginSite - Successfully logged in
+2020-06-03 16:31:51,492 [main] INFO Scripts.LoginSite - User is logged in with valid credentials
+2020-06-03 16:32:27,267 [main] INFO Scripts.LoginSite - Unsuccessful logged in
+2020-06-03 17:07:48,585 [main] INFO Scripts.LoginSite - Successfully logged in
+2020-06-03 17:07:48,666 [main] INFO Scripts.LoginSite - User is logged in with valid credentials
+2020-06-03 17:08:12,826 [main] INFO Scripts.LoginSite - Unsuccessful logged in
+2020-06-03 17:16:20,158 [main] INFO BASICS.newlogsfile - information message of new file
+2020-06-03 17:19:30,779 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-03 17:19:31,013 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-03 17:19:54,239 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-03 17:34:16,650 [main] INFO Scripts.NewsletterSubscription - Trying to get newsletter with new email id
+2020-06-03 17:36:17,561 [main] INFO Scripts.NewsletterSubscription - Trying to get newsletter with already registered emailid
+2020-06-04 17:57:02,351 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 17:57:03,172 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 17:57:03,298 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 17:57:06,886 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 17:57:50,254 [main] INFO Scripts.Registration - Successfully uploaded all the information
+2020-06-04 17:57:55,398 [main] INFO Scripts.Registration - Successfully reigistered
+2020-06-04 17:59:29,989 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 17:59:30,584 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 17:59:30,634 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 17:59:32,834 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 18:00:15,882 [main] INFO Scripts.Registration - Successfully uploaded all the information
+2020-06-04 18:00:21,731 [main] INFO Scripts.Registration - Successfully reigistered
+2020-06-04 18:03:14,316 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 18:03:19,851 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 18:03:19,984 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 18:06:56,940 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 18:06:57,420 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 18:06:57,469 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 18:06:59,604 [main] INFO Scripts.Registration - Sign in button is clicked
+2020-06-04 18:08:16,420 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-04 18:09:40,825 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-04 18:09:40,874 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-04 18:10:03,587 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-04 18:11:07,377 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-04 18:12:30,641 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-04 18:38:36,414 [main] INFO Scripts.LoginSite - Successfully logged in
+2020-06-04 18:38:36,491 [main] INFO Scripts.LoginSite - User is logged in with valid credentials
+2020-06-04 18:39:00,537 [main] INFO Scripts.LoginSite - Unsuccessful logged in
+2020-06-04 18:41:28,606 [main] INFO Scripts.LoginSite - Successfully logged in
+2020-06-05 16:51:45,535 [main] INFO Scripts.LoginSite - Successfully logged in
+2020-06-05 16:51:45,713 [main] INFO Scripts.LoginSite - User is logged in with valid credentials
+2020-06-05 16:53:13,215 [main] INFO Scripts.LoginSite - Unsuccessful logged in
+2020-06-05 16:57:18,306 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-05 16:57:18,366 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-05 17:00:39,631 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-05 17:23:23,219 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-05 17:23:23,289 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-05 17:24:02,407 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-05 17:33:38,920 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-05 17:33:39,048 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-05 17:34:04,464 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-08 13:16:48,693 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-08 13:16:49,017 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-08 13:17:43,936 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-08 13:24:29,687 [main] INFO Scripts.LoginSite - Successfully logged in
+2020-06-08 13:24:29,740 [main] INFO Scripts.LoginSite - User is logged in with valid credentials
+2020-06-08 13:26:29,424 [main] INFO Scripts.LoginSite - Unsuccessful logged in
+2020-06-08 13:34:07,950 [main] INFO Scripts.LoginSite - Successfully logged in
+2020-06-08 13:34:08,059 [main] INFO Scripts.LoginSite - User is logged in with valid credentials
+2020-06-08 13:34:56,042 [main] INFO Scripts.LoginSite - Unsuccessful logged in
+2020-06-08 13:37:07,870 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-08 13:37:07,924 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-08 13:37:34,978 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-08 14:17:55,400 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-08 14:17:55,502 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-08 14:18:22,841 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-08 14:20:28,715 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-08 14:20:28,891 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-08 14:21:03,851 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-08 14:32:29,194 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-08 14:32:29,263 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-08 14:32:56,398 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-08 14:34:26,823 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-08 14:34:26,874 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-08 14:35:00,162 [main] INFO Scripts.Register - Trying to verify email id
+2020-06-09 17:37:57,595 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-09 17:37:57,811 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-09 17:38:51,541 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-09 17:47:57,663 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-09 17:47:57,824 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-09 17:48:44,141 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-09 17:52:43,963 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-09 17:52:44,038 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-09 17:53:28,122 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-10 15:37:13,454 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-10 15:37:13,708 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-10 15:37:40,326 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-10 15:42:19,643 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-10 15:42:19,699 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-10 15:42:47,861 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-10 15:48:40,929 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-10 15:48:41,084 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-10 15:51:22,058 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-10 15:59:37,246 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-10 15:59:37,293 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-10 16:00:37,046 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-10 19:37:16,090 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-10 19:37:16,425 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-10 19:37:45,521 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-10 19:43:54,433 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-10 19:43:54,626 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-10 19:44:20,482 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-10 21:27:56,251 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-10 21:27:56,437 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-10 21:28:24,341 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-25 11:17:00,828 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-25 11:17:01,828 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-25 11:17:31,570 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-25 13:18:04,501 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-25 13:18:04,794 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-25 13:18:24,917 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-25 13:25:36,899 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-25 20:39:22,521 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-25 20:39:23,247 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-25 20:40:41,136 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-25 20:45:46,992 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-25 20:45:47,366 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-25 20:46:21,703 [main] INFO Scripts.Register - Trying to verify email id already registered email
+2020-06-25 20:49:18,742 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-25 20:59:48,534 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-25 21:00:35,297 [main] INFO Scripts.LoginSite - Successfully logged in
+2020-06-25 21:00:35,549 [main] INFO Scripts.LoginSite - User is logged in with valid credentials
+2020-06-25 21:01:08,712 [main] INFO Scripts.LoginSite - Unsuccessful logged in
+2020-06-26 12:29:47,103 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-26 12:29:47,287 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-26 12:32:27,750 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-26 12:32:27,793 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 16:08:06,401 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 16:08:06,740 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 17:14:08,411 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 17:14:08,982 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 17:22:59,556 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 17:22:59,695 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 17:26:29,117 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 17:26:29,407 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 17:31:10,603 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 17:31:11,076 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 17:35:22,875 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 17:35:23,459 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 17:47:13,115 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 17:47:13,600 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 17:50:55,378 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 17:50:55,830 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 18:04:36,983 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 18:04:37,201 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 18:09:50,802 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 18:09:51,206 [main] INFO Scripts.Register - Successfully verified the email id
+2020-06-30 18:16:16,141 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-06-30 18:16:16,434 [main] INFO Scripts.Register - Successfully verified the email id
+2020-07-03 13:30:45,194 [main] INFO Scripts.Register - Trying to verify with valid email id
+2020-07-03 13:30:45,327 [main] INFO Scripts.Register - Successfully verified the email id
